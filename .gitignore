@@ -1,5 +1,18 @@
-# Ignore everything
+# Ignore everything by default
 *
+
+# Allow only specific files and directories
+!DD_figs/
+!DD_figs/**
+!GenoMAS_figs/
+!GenoMAS_figs/**
+!DD.md
+!GenoMAS.md
+!.gitignore
+!README.md
+
+# Ignore everything
+# *
 
 # But don't ignore these files/directories
 !DD.md
