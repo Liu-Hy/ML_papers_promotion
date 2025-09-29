@@ -1,5 +1,5 @@
 # Ignore everything by default
-*
+# *
 
 # Allow only specific files and directories
 !DD_figs/
