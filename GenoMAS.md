@@ -1,4 +1,4 @@
-# GenoMAS：多智能体，让基因表达分析更可信
+# GenoMAS：通往更可信的基因分析智能体
 
 - 论文标题：GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis
 - arXiv 链接：https://arxiv.org/abs/2507.21035
