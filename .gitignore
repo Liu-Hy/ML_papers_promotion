@@ -1,11 +1,14 @@
 # Ignore everything by default
-# *
+*
 
 # Allow only specific files and directories
+!papers/
+!papers/**
 !DD_figs/
 !DD_figs/**
 !GenoMAS_figs/
 !GenoMAS_figs/**
 !DD.md
+!DD**.md
 !GenoMAS.md
 !.gitignore
